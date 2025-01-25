@@ -21,7 +21,7 @@ On thi application there is a login with a username and password. After the logi
 
 ![Create](./Assets/Screenshots/CreateTicket.jpg)
 
-## Question
+## Questions
 
 GitHub: [Nattan Aguia Trujillo](https://github.com/nattanaguiat)
 
