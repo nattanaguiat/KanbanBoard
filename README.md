@@ -4,7 +4,7 @@ This application is very usefull and can help you and a team to manage a project
 
 ## Usage
 
-Deployed: 
+Deployed: https://kanbanboard-54fi.onrender.com
 
 On thi application there is a login with a username and password. After the login on the home screen there it will be the way to manage many task like deleting a ticket, editing a ticket or creating a new ticket.
 
